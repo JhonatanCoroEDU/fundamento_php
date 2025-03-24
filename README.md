@@ -17,6 +17,14 @@ echo "Aquí tienes una imagen generada con IA:<br>";
 
 <img src="logo.jpg" alt="logo" style="width:500px">
 ```
+# Bash
+```bash 
+sudo apt install apache2
+```
+## Extensiones a descargar en Visual Code
+Remote - SSH
+![image](https://github.com/user-attachments/assets/35546391-f21a-4ef5-a96f-647940d6abdd)
+
 ## Datos del Autor
 Nombre: Jhonatan
 Correo: jhonatan.coronado@galileo.edu
